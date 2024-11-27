@@ -10,11 +10,12 @@
 -  🎓💻 Estudiante de la Licenciatura en Computación en la <a href="https://www.uam.mx/unidad_iztapalapa.html">Universidad Autónoma Metropolitana</a>.  
 - 👨‍💻 Constantemente aprendiendo y mejorando.
 - 🌱 Actualmente mejorando en el frontend y backend en el desarrollo web.
+<br><br><br>
 
 ## 🛠️ Skills
 
 ### Languages, Frontend Development &  Tools
-
+<br>
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,14 +24,18 @@
 </p>
 </div>
 
-## 🤝🏻 Connect with me
+<br><br>
 
+## 🤝🏻 Connect with me
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,linkedin,gmail vscode=14" />
   </a>
 </p>
 </div>
+
+<br><br>
 
 ## ⚙️  GitHub Analytics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diose03&theme=material-palenight&layout=compact)
