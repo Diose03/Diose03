@@ -31,10 +31,17 @@
 ## 🤝🏻 Connect with me
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linkedin,gmail vscode=14" />
+  <a href="https://github.com/tuusuario" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
+
 </div>
 
 <br><br>
