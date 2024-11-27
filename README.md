@@ -32,12 +32,12 @@
 <br>
 <p align="center">
   <a href="https://github.com/Diose03" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" target="_blank"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/lucia-villa-figueroa-a103b333a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" target="_blank"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ldvf03@gmail.com">
+  <a href="mailto:ldvf03@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
