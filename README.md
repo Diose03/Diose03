@@ -1,6 +1,8 @@
 
 <!--
 **Diose03/Diose03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+![Imagen de perfil](https://github.com/Diose03/Diose03/blob/main/pt.gif)
+
 
 <h1 align="left""><b>Hola, soy Lucia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
