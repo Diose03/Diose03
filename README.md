@@ -14,7 +14,7 @@
 - 🌱 Actualmente mejorando en el frontend y backend en el desarrollo web.
 <br><br><br>
 
-## 🛠️ Skills
+# 🛠️ Skills
 
 ### Languages, Frontend Development &  Tools
 <br>
@@ -28,7 +28,7 @@
 
 <br><br>
 
-## 🤝🏻 Connect with me
+# 🤝🏻 Connect with me
 <br>
 <p align="center">
   <a href="https://github.com/Diose03" target="_blank">
@@ -46,5 +46,5 @@
 
 <br><br>
 
-## ⚙️  GitHub Analytics
+# ⚙️  GitHub Analytics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diose03&theme=material-palenight&layout=compact)
