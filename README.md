@@ -7,21 +7,36 @@
 <h1 align="left""><b>Hola, soy Lucia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" width=150px alt="Unicorn" src="https://img1.picmix.com/output/stamp/normal/7/9/9/5/2335997_2f709.gif"/>
+<br>
 
 - 🌍 Soy mexicana.
 -  🎓💻 Estudiante de la Licenciatura en Computación en la <a href="https://www.uam.mx/unidad_iztapalapa.html">Universidad Autónoma Metropolitana</a>.  
-- 👨‍💻 Constantemente aprendiendo y mejorando.
-- 🌱 Actualmente mejorando en el frontend y backend en el desarrollo web.
+- 👨‍💻 Interesada en el desarrollo web.
+- 💡 Siempre buscando nuevos retos y oportunidades para mejorar.
+- 🚀 Explorando en Angular, Node.js, Bases de Datos y desarrollo de aplicaiones.
 <br><br><br>
 
 # 🛠️ Skills
 
-### Languages, Frontend Development &  Tools
 <br>
 <div>
 <p align="center">
+   Languages 
+  <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css,angular,mysql,bootstrap,figma,codepen,eclipse,vscode vscode=14" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css vscode=14" />
+  </a>
+</p>
+</div>
+
+<br>
+<div>
+  
+<p align="center">
+  Tools
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,mysql,bootstrap,figma,codepen,eclipse,vscode vscode=14" />
   </a>
 </p>
 </div>
