@@ -13,7 +13,7 @@
 -  🎓💻 Estudiante de la Licenciatura en Computación en la <a href="https://www.uam.mx/unidad_iztapalapa.html">Universidad Autónoma Metropolitana</a>.  
 - 👨‍💻 Interesada en el desarrollo web.
 - 💡 Siempre buscando nuevos retos y oportunidades para mejorar.
-- 🚀 Explorando en Angular, Node.js, Bases de Datos y desarrollo de aplicaiones.
+- 🚀 Explorando en Angular, Node.js, Bases de Datos y desarrollo de aplicaciones.
 <br><br><br>
 
 # 🛠️ Skills
