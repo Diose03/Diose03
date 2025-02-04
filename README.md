@@ -4,17 +4,19 @@
 ![Login](https://github.com/Diose03/Diose03/blob/main/Login1.gif)
 
 
-<h1 align="left""><b>Hola, soy Lucia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left""><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHA2azVkdmdobjVrbXYzdjNtdHNla2doMHI0eXJ4ZnVzNWdrZHl0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Po7cyzjph5pZaAMaSb/giphy.gif" width="150px"><b> Soy Lucia </b></h1>
+<!--img align="right" width=150px alt="Unicorn" src="https://img1.picmix.com/output/stamp/normal/7/9/9/5/2335997_2f709.gif"/-->
 
-<img align="right" width=150px alt="Unicorn" src="https://img1.picmix.com/output/stamp/normal/7/9/9/5/2335997_2f709.gif"/>
 <br>
 
 - 🌍 Soy mexicana.
 -  🎓💻 Estudiante de la Licenciatura en Computación en la <a href="https://www.uam.mx/unidad_iztapalapa.html">Universidad Autónoma Metropolitana</a>.  
 - 👨‍💻 Interesada en el desarrollo web.
+  <img align="right" width=150px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdmZGNkZmt6cXV0NWUwazM1c25sd3ZqZzIyZGVrbjM3YW9hbzNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/p7h0Fsn0RKgLDQRZsK/giphy.gif"/>
 - 💡 Siempre buscando nuevos retos y oportunidades para mejorar.
 - 🚀 Explorando en Angular, Node.js, Bases de Datos y desarrollo de aplicaciones.
 <br><br><br>
+
 
 # 🛠️ Skills
 
