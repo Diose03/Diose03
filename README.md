@@ -23,7 +23,7 @@
 <br>
 <div>
 <p align="center">
-   Languages 
+   Lenguajes
   <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,html,css" />
