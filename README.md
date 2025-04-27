@@ -26,7 +26,7 @@
    Languages 
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,html,css vscode=14" />
+    <img src="https://skillicons.dev/icons?i=java,py,js,html,css" />
   </a>
 </p>
 </div>
@@ -38,7 +38,7 @@
   Tools
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,mysql,bootstrap,figma,codepen,eclipse,vscode vscode=14" />
+    <img src="https://skillicons.dev/icons?i=angular,mysql,bootstrap,figma,codepen,eclipse,git,github,vscode" />
   </a>
 </p>
 </div>
