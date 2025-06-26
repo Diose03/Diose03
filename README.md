@@ -38,7 +38,7 @@
   Tools
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,mysql,bootstrap,figma,codepen,eclipse,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=angular,mysql,bootstrap,figma,codepen,eclipse,git,github,vscode,idea" />
   </a>
 </p>
 </div>
