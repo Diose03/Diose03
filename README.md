@@ -10,7 +10,7 @@
 <br>
 
 - 🌍 Soy mexicana.
--  🎓💻 Estudiante de la Licenciatura en Computación en la <a href="https://www.uam.mx/unidad_iztapalapa.html">Universidad Autónoma Metropolitana</a>.  
+-  🎓💻 Egresada de la Licenciatura en Computación en la <a href="https://www.uam.mx/unidad_iztapalapa.html">Universidad Autónoma Metropolitana</a>.  
 - 👨‍💻 Interesada en el desarrollo web.
   <!--img align="right" width=150px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdmZGNkZmt6cXV0NWUwazM1c25sd3ZqZzIyZGVrbjM3YW9hbzNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/p7h0Fsn0RKgLDQRZsK/giphy.gif"/-->
 - 💡 Siempre buscando nuevos retos y oportunidades para mejorar.
