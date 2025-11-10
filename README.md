@@ -14,7 +14,7 @@
 - 👨‍💻 Interesada en el desarrollo web.
   <!--img align="right" width=150px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdmZGNkZmt6cXV0NWUwazM1c25sd3ZqZzIyZGVrbjM3YW9hbzNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/p7h0Fsn0RKgLDQRZsK/giphy.gif"/-->
 - 💡 Siempre buscando nuevos retos y oportunidades para mejorar.
-- 🚀 Explorando en Angular, Node.js, Bases de Datos y desarrollo de aplicaciones.
+- 🚀 Explorando en Angular, Django, Bases de Datos y desarrollo de aplicaciones web.
 <br><br><br>
 
 
